@@ -4,4 +4,8 @@ Git has a mutable index called stage
 Git tracks changes
 hello sb
 hello 2b
-create a branch is quick & simple
+<<<<<<< HEAD
+create a branch is quick AND simple
+=======
+create a branch is quick AND simple
+>>>>>>> feature1
